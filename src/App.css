@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+.appbar {
+  flex-grow: 1;
+}
+
+.menu-button {
+  margin-right: 10px;
+}
+
+.title {
+  flex-grow: 1;
+  font-family: "Staatliches", cursive !important;
+  text-decoration: none;
+  color: #fff;
+  font-size: 32px;
+}
+
+.center {
+  width: 100%;
+  margin: 0 auto 0 auto;
+}
+
+.checkout-modal {
+  width: 40%;
+  margin: 20vh auto 0 auto;
+  background-color: #fff;
+  outline: none;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.checkout-modal h1 {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Staatliches", cursive;
+  font-size: 32px;
+}
+
+.cart {
+  margin-left: 20px;
+}
+
+.content {
+  width: 80%;
+  margin: 2rem auto 6rem auto;
+}
+
+.page {
+  width: 50%;
+  margin: 0 auto 0 auto;
+  padding: 20px;
+}
+
+.form {
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.home {
+  width: 90%;
+  margin: 0 auto 0 auto;
+}
+
+.menu-item {
+  background-color: #c62828 !important;
+  color: white !important;
+  width: 15vw;
+}
+
+.menu-item-img {
+  height: 15vw;
+  width: 15vw;
+}
+
+.category {
+  padding: 20px;
+  padding-bottom: 40px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
